@@ -1,0 +1,51 @@
+
+.heading
+{
+font-size: 25px;
+width: 100%;
+margin: 0px;
+font-family: 'Times New Roman', Times, serif;
+}
+
+#status
+{
+font-size: 18px;
+}
+
+.bg
+{
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.locate
+{
+    background-color:cyan;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+    color: black;
+    border-radius: 10px;
+    width: 500px;
+    margin-bottom: 25px;
+    margin-top: 15px;
+}
+
+canvas
+{
+    border: 5px , solid , black;
+    border-radius: 10px;
+    box-shadow: 5px , 10px , white;
+}
+.copy_right_footer
+{
+    font-family: 'Roboto', sans-serif;
+    position:fixed ;
+    color: #717172;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: white;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(100, 99, 99);
+}
